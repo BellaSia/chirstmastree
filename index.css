@@ -1,0 +1,49 @@
+body{
+  margin: 0;
+  padding: 0;
+  align-content: center;
+
+}
+
+h4 {
+  margin: 40px;
+  padding: 10px;
+  justify-content: center;
+  font-size: 60px;
+  background-image: url(Img/bg.jpg);
+
+
+  /* background: linear-gradient(to bottom, rgb(190, 99, 76) 50%, rgba(157, 45, 18) 100%, rgb(243, 127, 127) 70%); */
+}
+
+button {
+  margin: 10px;
+  width: 100px;
+  height: 50px;
+  border-radius: 15px;
+  border-color: rgb(157, 45, 18);
+  display:ruby-base-container;
+  justify-content: center;
+  background-color: #ffffff;
+  transition: background-color 1s ease-in-out 0s;
+  background-color: #f6f6f6;
+}
+
+
+.header {
+  height: 100vh;
+    background-color:#f5d3b2 ;
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    background: linear-gradient(to bottom, rgba(235,247,250,1) 0%, rgba(190,228,234,1) 0%, rgba(198,225,235,1) 0%, rgba(245,178,199,1) 100%);
+
+
+}
+
+
+ /* <hr>
+    <h1 id="pasko" > 🎅🎁🎄 Merry Christmas 🎄☃️🦌 </h1>
+    <button id="Start" onclick="start();"> 🎁 Start 🎁</button>
+    <button id="Stop" onclick="stop();"> 🎁 Stop 🎁 </button>
+      
+<hr><br>
+<br><br> */
